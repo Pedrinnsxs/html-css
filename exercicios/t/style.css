@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(141, 141, 141);
+    font-family: sans-serif;
+}
+
+header 
+{
+    
+    text-align: center;
+    background-color: black;
+    background-image: linear-gradient(to top, rgb(156, 99, 156), rgb(59, 110, 59));  
+    color: white;
+    min-height: 150px;
+    padding-top: 40px;
+    
+    
+}
+
+header h1{
+    margin-bottom: 20px;
+    color: white;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+header p {
+    font-size: 1.3em;
+    padding-top: 15px;
+    
+}
+
+nav { background-color: rgb(126, 97, 153);
+    padding: 10px;
+    
+
+
+}
+
+nav > a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+nav a:hover {
+      
+}
+
+main {
+    background-color: white;
+    
+
+
+}
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+

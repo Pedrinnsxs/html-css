@@ -1,0 +1,91 @@
+
+
+
+
+
+
+body {
+    background-color: rgb(226, 180, 188);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ header {
+    background-color: pink;
+    padding: 20px;
+    background-image: linear-gradient(to left, white, pink);
+    border-radius: 20px;
+
+
+ }
+ header h1 {
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 20px;
+    
+
+ }
+
+ header p {
+    text-align: center;
+    font-size: 1.3em;
+ }
+
+ nav {
+    
+    margin: 10px;
+    
+    
+    
+ }
+
+
+
+ nav a { 
+    text-decoration: none;
+    padding: 20px;
+    font-weight: bold;
+    transition-duration: 0.3s;
+    color: rgb(0, 0, 0) ;
+    font-size: 1.1em;
+    border-radius: 20px;
+      
+      
+ }
+ 
+
+ nav > a:hover {
+    color: rgb(153, 33, 168);
+    
+    
+ }
+
+
+ * {
+    margin: 0px;
+    padding: 0px;
+ }
+
+ main {
+    padding: 15px;
+    background-color: white;
+    color: black;
+    margin-bottom: 30px;
+    min-width: 300px;
+    max-width: 1000px;
+    height: 200px;
+    margin: auto;
+    background-image: linear-gradient(to right, pink, transparent)
+    
+
+    
+ }
+
+
+ 
+  main > article {
+    text-align: justify;
+    font-size: 1.3em;
+
+  }
+
+
+  

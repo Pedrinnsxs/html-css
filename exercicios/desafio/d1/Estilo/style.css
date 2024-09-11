@@ -77,8 +77,11 @@ header > p {
 
 nav {
     background-color: var(--cor5);
-    padding: 10px;
-    box-shadow: 0px 7px 7px black;
+    text-shadow: 0px, 2px 3px black;
+    padding: 10px
+
+    
+    
     
 }
 
